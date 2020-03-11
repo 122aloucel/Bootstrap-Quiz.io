@@ -2,3 +2,15 @@
     background-color: plum;
     border: 1px solid rebeccaPurple;
   }
+.camera {
+  height: 20px;
+}
+.white {
+  color: #ffffff;
+}
+.funny {
+  background-color: #ffffff;
+}
+body {
+  background-color: #dbdbdb;
+}
